@@ -1,0 +1,9 @@
+@media(max-width:991px){
+    .banner-top{
+        width: 80%;
+    }
+    .services-1,.services-2,.services-3{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+}
